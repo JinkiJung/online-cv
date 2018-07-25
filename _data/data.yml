@@ -29,10 +29,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Traveling
+          item: Chilling with family
           link:
         - interest:
-          item: Life logging
+          item: Traveling
           link:
 
 career-profile: 
@@ -64,26 +64,14 @@ experiences:
     title: Experiences
     
     experiences:
-        - role: Lead Developer
+        - role: Post-doc researcher
           time: 2015 - Present
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+          company: <a href="http://www.kriso.re.kr/eng/" target="_blank">Korea Research Institute of Ships and Ocean Engineering</a>
+          details: Building technical contributions to maritime safety
           bullets:
-              - Bullet point #1
-              - Bullet point #2
-
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-              
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-          bullets:
-              - Bullet point #1
-              - Bullet point #2
+              - <a href="http://www.smartnav.org/eng/html/Index_New/" target="_blank">SMART-Navigation project</a> : Implementation of a virtual testbed, service validation using the testbed
+              - <a href="https://maritimeconnectivity.net/" target="_blank">Maritime Connecivity Platform</a> : Senior developer of Identity Registry
+              - Research on maritime accident prevention : Virtual Training implementation and evaluation of its effectiveness
               
 projects:
     title: Projects
@@ -92,65 +80,55 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Maritime Connecivity Platform
+        link: https://maritimeconnectivity.net/
+        tagline: ""
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        title: Virtuality for Safety
+        link: https://github.com/VirtualityForSafety
+        tagline: ""
 
 publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    title: Publication Highlights
+    intro: "The papers below are my recent works. You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=inzigzUAAAAJ&hl=en" target="_blank">Google Scholar</a>."
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: Ensuring Safety in Augmented Reality from Trade-off Between Immersion and Situation Awareness
+        authors: Jinki Jung, Hyeopwoo Lee, Jeehye Choi, Abhilasha Nanda, Uwe Grünefeld, Tim Claudius Stratmann, Wilko Heuten
+        conference: 17th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2018
+        link: https://www.researchgate.net/publication/326343751_Ensuring_Safety_in_Augmented_Reality_from_Trade-off_Between_Immersion_and_Situation_Awareness
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: Guiding Smombies: Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users
+        authors: Uwe Grünefeld, Tim Claudius Stratmann, Jinki Jung, Hyeopwoo Lee, Jeehye Choi, Abhilasha Nanda, Wilko Heuten
+        conference: 17th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2018
+        link: https://www.researchgate.net/publication/326305306_Guiding_Smombies_Augmenting_Peripheral_Vision_with_Low-Cost_Glasses_to_Shift_the_Attention_of_Smartphone_Users
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Effects of interface on procedural skill transfer in virtual training: Lifeboat launching operation study
+        authors: Jinki Jung, Young Joong Ahn
+        journal: Computer animation and virtual worlds, 2018
+        link: https://www.researchgate.net/publication/324904373_Effects_of_interface_on_procedural_skill_transfer_in_virtual_training_Lifeboat_launching_operation_study_A_comparative_assessment_interfaces_in_virtual_training
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Unity3D & Unreal Engine
           level: 98%
         - skill:
-          name: Javascript & jQuery
+          name: C++, C, and C"#"
           level: 98%
         - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
+          name: R & Statistic analysis
           level: 95%
         - skill:
-          name: Ruby on Rails
+          name: OpenCV & vision programming
           level: 85%
         - skill:
-          name: Sketch & Photoshop
+          name: Python & TensorFlow
+          level: 80%
+        - skill:
+          name: Arduino
           level: 60%
-
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
