@@ -4,68 +4,62 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
+    title: Jinki's Online Resume
+    url: 'http://jinkijung.github.io'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jinki Jung
+    tagline: Researcher / SW developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
-    codewars: codewars_username
+    primary email: your.jinki.jung@gmail.com
+    secondary email: jinki.jung@kriso.re.kr
+    website: jinkijung.github.io #do not add http://
+    linkedin: jinkijung
+    researchgate: Jinki_Jung
+    github: jinkijung
 
     languages:
         - language:
-          idiom: English
+          idiom: Korean
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
         - language:
-          idiom: Spanish
-          level: Professional
+          idiom: German
+          level: Beginner
         
     interests:
         - interest:
-          item: Climbing
-          link:
-        - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
+          item: Traveling
           link:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
+    text: 'Jinki Jung is a researcher who is eager to contribute the world's safety with technology.'
+    #text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Ph.D in Computer Science
+      university: KAIST
+      time: 2009 - 2015
+      details: ""
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: MSc in Computer Science
+      university: KAIST
+      time: 2007 - 2009
+      details: ""
+
+    - education:
+      degree: BSc in Media Engineering
+      university: Soongsil University
+      time: 2003 - 2007
+      details: ""
 
 experiences:
     title: Experiences
