@@ -15,10 +15,8 @@ sidebar:
     
     # Sidebar links
     email: your.jinki.jung@gmail.com
-    email: jinki.jung@kriso.re.kr
     website: jinkijung.github.io #do not add http://
     linkedin: jinkijung
-    researchgate: Jinki_Jung
     github: jinkijung
 
     languages:
@@ -36,6 +34,11 @@ sidebar:
         - interest:
           item: Life logging
           link:
+
+career-profile: 
+    title: Career Profile
+    text: 'Jinki Jung is a research scientist who is eager to contribute the world's safety with technology.'
+        # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
 studies: 
     - education:
@@ -56,10 +59,6 @@ studies:
       time: 2003 - 2007
       details: ""
 
-
-career-profile: 
-    text: 'Jinki Jung is a research scientist who is eager to contribute the world's safety with technology.'
-        # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
 experiences:
     title: Experiences
