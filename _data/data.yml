@@ -90,7 +90,7 @@ projects:
 
 publications:
     title: Publication Highlights
-    intro: "The papers below are my recent works. You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=inzigzUAAAAJ&hl=en" target="_blank">Google Scholar</a>."
+    intro: The papers below are my recent works. You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=inzigzUAAAAJ&hl=en" target="_blank">Google Scholar</a>.
     
     publications:
       - paper:
