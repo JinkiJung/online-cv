@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: Jinki's Online Resume
     url: 'http://jinkijung.github.io'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Jinki Jung
@@ -45,13 +45,13 @@ studies:
       degree: Ph.D in Computer Science
       university: KAIST
       time: 2009 - 2015
-      details: ""
+      details: "Major topic: Augmented Reality"
 
     - education:
       degree: MSc in Computer Science
       university: KAIST
       time: 2007 - 2009
-      details: ""
+      details: "Major topic: Augmented Reality"
 
     - education:
       degree: BSc in Media Engineering
