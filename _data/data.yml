@@ -69,14 +69,13 @@ experiences:
           company: <a href="http://www.kriso.re.kr/eng/" target="_blank">Korea Research Institute of Ships and Ocean Engineering</a>
           details: Building technical contributions to maritime safety
           bullets:
-              - <a href="http://www.smartnav.org/eng/html/Index_New/" target="_blank">SMART-Navigation project</a> : Implementation of a virtual testbed, service validation using the testbed
-              - <a href="https://maritimeconnectivity.net/" target="_blank">Maritime Connecivity Platform</a> : Senior developer of Identity Registry
-              - Research on maritime accident prevention : Virtual Training implementation and evaluation of its effectiveness
+              - <a href="http://www.smartnav.org/eng/html/Index_New/" target="_blank">SMART-Navigation project</a> ":" Implementation of a virtual testbed, service validation using the testbed
+              - <a href="https://maritimeconnectivity.net/" target="_blank">Maritime Connecivity Platform</a> ":" Senior developer of Identity Registry
+              - Research on maritime accident prevention ":" Virtual Training implementation and evaluation of its effectiveness
               
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "These are open-source projects that I am actively working on."
     
     projects:
       - project:
