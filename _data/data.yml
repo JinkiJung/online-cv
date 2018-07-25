@@ -65,13 +65,18 @@ experiences:
     
     experiences:
         - role: Post-doc researcher
-          time: 2015 - Present
+          time: 2016 - Present
           company: <a href="http://www.kriso.re.kr/eng/" target="_blank">Korea Research Institute of Ships and Ocean Engineering</a>
           details: Building technical contributions to maritime safety
           bullets:
               - '<a href="http://www.smartnav.org/eng/html/Index_New/" target="_blank">SMART-Navigation project</a> : Implementation of a virtual testbed, service validation using the testbed'
               - '<a href="https://maritimeconnectivity.net/" target="_blank">Maritime Connecivity Platform</a> : Senior developer of Identity Registry'
               - 'Research on maritime accident prevention : Virtual Training implementation and evaluation of its effectiveness'
+
+        - role: Post-doc researcher
+          time: 2015 - 2016
+          company: KAIST
+          details: Conducting researches on indoor scene reconstruction and its uses in AR
               
 projects:
     title: Projects
