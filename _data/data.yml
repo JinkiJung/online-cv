@@ -91,7 +91,7 @@ projects:
 publications:
     title: Publication Highlights
     intro: 'The papers below are my recent works.'
-    
+     #You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=inzigzUAAAAJ&hl=en" target="_blank">Google Scholar</a>'.
     publications:
       - paper:
         title: Ensuring Safety in Augmented Reality from Trade-off Between Immersion and Situation Awareness
@@ -99,12 +99,12 @@ publications:
         conference: 17th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2018
         link: https://www.researchgate.net/publication/326343751_Ensuring_Safety_in_Augmented_Reality_from_Trade-off_Between_Immersion_and_Situation_Awareness
       - paper:
-        title: Guiding Smombies: Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users
+        title: Guiding Smombies':' Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users
         authors: Uwe Grünefeld, Tim Claudius Stratmann, Jinki Jung, Hyeopwoo Lee, Jeehye Choi, Abhilasha Nanda, Wilko Heuten
         conference: 17th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2018
         link: https://www.researchgate.net/publication/326305306_Guiding_Smombies_Augmenting_Peripheral_Vision_with_Low-Cost_Glasses_to_Shift_the_Attention_of_Smartphone_Users
       - paper:
-        title: Effects of interface on procedural skill transfer in virtual training: Lifeboat launching operation study
+        title: Effects of interface on procedural skill transfer in virtual training':' Lifeboat launching operation study
         authors: Jinki Jung, Young Joong Ahn
         journal: Computer animation and virtual worlds, 2018
         link: https://www.researchgate.net/publication/324904373_Effects_of_interface_on_procedural_skill_transfer_in_virtual_training_Lifeboat_launching_operation_study_A_comparative_assessment_interfaces_in_virtual_training
