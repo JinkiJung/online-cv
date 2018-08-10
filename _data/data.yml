@@ -37,7 +37,10 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Jinki Jung is a research scientist who is eager to contribute the world safety with technology.'
+    text: 'Jinki Jung is a post-doc research scientist at <a href="http://www.kriso.re.kr/eng/" target="_blank">KRISO</a>. 
+						He received my PhD in Computer Science from KAIST. 
+						His primary interest is virtual reality/augmented reality, with a current focus on training transfer.
+						His current research is inspired by my earlier thought regards the most useful form of VR/AR, where he mainly investigated the following two issues: (1) finding efficiency of VR/AR interfaces to transfer subjects in design-intended training; (2) investigating generation of VR/AR training contents efficiently. He has really enjoyed conducting field experiments by research collaborations, with brilliant colleagues and friends.'
         # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
 studies: 
