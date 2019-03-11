@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,12 +7,12 @@ sidebar:
     title: Jinki's Online Resume
     url: 'http://jinkijung.github.io'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
     name: Jinki Jung
     tagline: Researcher / SW developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+
     # Sidebar links
     email: your.jinki.jung@gmail.com
     website: jinkijung.github.io #do not add http://
@@ -26,7 +26,10 @@ sidebar:
         - language:
           idiom: English
           level: Professional
-        
+        - language:
+          idiom: Danish
+          level: Beginner
+
     interests:
         - interest:
           item: Chilling with family
@@ -35,15 +38,15 @@ sidebar:
           item: Traveling
           link:
 
-career-profile: 
+career-profile:
     title: Career Profile
-    text: 'Jinki Jung is a post-doc research scientist at <a href="http://www.kriso.re.kr/eng/" target="_blank">KRISO</a>. 
-						He received my PhD in Computer Science from KAIST. 
+    text: 'Jinki Jung is a senior software developer who works for <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform</a>.
+						He received my PhD in Computer Science from KAIST.
 						His primary interest is virtual reality/augmented reality, with a current focus on training transfer.
 						His current research is inspired by the thought regards the most useful form of VR/AR, where he mainly investigated the following two issues: (1) finding efficiency of VR/AR interfaces to transfer subjects in design-intended training; (2) investigating generation of VR/AR training contents efficiently. He has really enjoyed conducting field experiments by research collaborations, with brilliant colleagues and friends. You can <a href="https://github.com/JinkiJung/online-cv/blob/master/_data/Curriculum_vitae_180916.pdf" target="_blank">download my CV here</a>.'
         # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
-studies: 
+studies:
     - education:
       degree: Ph.D in Computer Science
       university: KAIST
@@ -65,10 +68,18 @@ studies:
 
 experiences:
     title: Experiences
-    
+
     experiences:
+      - role: Senior software developer
+        time: 2019 - Present
+        company: <a href="https://maritimeconnectivity.net/" target="_blank">Secretariat of MCP</a>
+        details: Contributing stable distribution of MCP w.r.t technical parts
+        bullets:
+            - 'Development of distributed maritime identity registry based on Kubernetes'
+            - 'Massive vessel traffic simulation for e-navigation testbed'
+
         - role: Post-doc researcher
-          time: 2016 - Present
+          time: 2016 - 2019
           company: <a href="http://www.kriso.re.kr/eng/" target="_blank">Korea Research Institute of Ships and Ocean Engineering</a>
           details: Building technical contributions to maritime safety
           bullets:
@@ -80,11 +91,11 @@ experiences:
           time: 2015 - 2016
           company: KAIST
           details: Conducting researches on indoor scene reconstruction and its uses in AR
-              
+
 projects:
     title: Projects
     intro: "These are open-source projects that I am actively working on."
-    
+
     projects:
       - project:
         title: Maritime Connecivity Platform
@@ -137,5 +148,5 @@ skills:
         - skill:
           name: Arduino
           level: 60%
-footer: 
+footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
