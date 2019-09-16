@@ -100,15 +100,15 @@ projects:
       - project:
         title: Maritime Connecivity Platform
         link: https://maritimeconnectivity.net/
-        tagline: "asdfasdf"
+        tagline: "a communication framework enabling efficient and secure digital information exchange for maritime industry"
       - project:
         title: Virtuality for Safety
         link: https://virtualityforsafety.github.io/
-        tagline: ""
+        tagline: "a collaborative research project for safety issues in VR and AR"
       - project:
         title: Tasc-Unity
         link: https://github.com/JinkiJung/Tasc-Unity
-        tagline: ""
+        tagline: "a task script library enabling easy and efficient scenario implementation (in Unity)"
 
 publications:
     title: Publication Highlights
