@@ -40,7 +40,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    text: 'Jinki Jung is a senior software developer who works for <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform</a>.
+    text: 'Jinki Jung is a senior software developer who works for <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform (MCP)</a>.
 						He received my PhD in Computer Science from KAIST.
 						His primary interest is to investigate assessments/improvements on safety based on VR, AR, and simulation.
 						He has really enjoyed conducting field experiments by research collaborations, with brilliant colleagues and friends. You can <a href="https://github.com/JinkiJung/online-cv/blob/master/_data/Curriculum_vitae_190507.pdf" target="_blank">download my CV here</a>.'
@@ -93,7 +93,7 @@ experiences:
           details: Conducting researches on indoor scene reconstruction and its uses in AR
 
 projects:
-    title: Projects
+    title: Open-source Projects
     intro: "These are open-source projects that I am actively working on."
 
     projects:
@@ -104,6 +104,10 @@ projects:
       - project:
         title: Virtuality for Safety
         link: https://virtualityforsafety.github.io/
+        tagline: ""
+      - project:
+        title: Tasc-Unity
+        link: https://github.com/JinkiJung/Tasc-Unity
         tagline: ""
 
 publications:
