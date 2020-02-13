@@ -28,7 +28,7 @@ sidebar:
           level: Professional
         - language:
           idiom: Danish
-          level: Beginner
+          level: Very Beginner
 
     interests:
         - interest:
@@ -41,9 +41,10 @@ sidebar:
 career-profile:
     title: Career Profile
     text: 'Jinki Jung is a senior software developer who works for <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform (MCP)</a>.
-						He received my PhD in Computer Science from KAIST.
-						His primary interest is to investigate assessments/improvements on safety based on VR, AR, and simulation.
-						He has really enjoyed conducting field experiments by research collaborations, with brilliant colleagues and friends. You can <a href="https://github.com/JinkiJung/online-cv/blob/master/_data/Curriculum_vitae_190917.pdf" target="_blank">download my CV here</a>.'
+						He received PhD in Computer Science with the topic of Augmented Reality from <a href="https://www.kaist.ac.kr/html/en/index.html" target="_blank">KAIST</a>.
+						His primary interest is to investigate assessments/improvements on safety factor with simulation, VR, and AR.
+            As being a developer in the MCP world, he is involving to the development of <a href="https://developers.maritimeconnectivity.net/identity/index.html" target="_blank">Maritime Identity Registry</a> for authentication based on PKI and OIDC and <a href="https://maritimeconnectivity.net/" target="_blank">Maritime Messaging Service</a> for seamless information transfer with message queue.
+            You can <a href="https://github.com/JinkiJung/online-cv/blob/master/_data/Curriculum_vitae_190917.pdf" target="_blank">download my CV here</a>.'
         # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
 studies:
