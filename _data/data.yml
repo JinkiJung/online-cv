@@ -54,10 +54,9 @@ career-profile:
     title: Career Profile
     text: 'Jinki Jung is a senior software developer of <a href="https://dmc.international/" target="_blank">Digital Maritime Consultancy</a> primarily working on <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform (MCP)</a>.
 						He received Ph.D. in Computer Science with the topic of Augmented Reality from <a href="https://www.kaist.ac.kr/html/en/index.html" target="_blank">KAIST</a>.
-						His primary interest is to investigate assessments/improvements on safety factor with simulation, VR, and AR.
-            Now turning into the MCP world, he is participating working group activities and implementation as you can find in <a href="https://github.com/maritimeconnectivity">MCP Consortium repository</a>
+						His primary interest is to investigate assessments on safety factor with simulation, VR, and AR.
+            Now turning into the MCP world, he is participating working group activities and implementation as you can find in <a href="https://github.com/maritimeconnectivity">MCP Consortium repository</a>.
             You can <a href="https://github.com/JinkiJung/online-cv/blob/master/_data/Curriculum_vitae_190927.pdf" target="_blank">download my CV here</a>.'
-        # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
 
 studies:
     - education:
@@ -115,13 +114,13 @@ projects:
         link: https://maritimeconnectivity.net/
         tagline: "a communication framework enabling efficient and secure digital information exchange for maritime industry"
       - project:
+        title: Tasc
+        link: https://tasc.readthedocs.io/en/latest/
+        tagline: "a high-level script for representing tasks and its consequences"
+      - project:
         title: Virtuality for Safety
         link: https://virtualityforsafety.github.io/
         tagline: "a collaborative research project for safety issues in VR and AR"
-      - project:
-        title: Tasc-Unity
-        link: https://github.com/JinkiJung/Tasc-Unity
-        tagline: "a task script library enabling easy and efficient scenario implementation (in Unity)"
 
 publications:
     title: Publication Highlights
@@ -129,7 +128,7 @@ publications:
      #You can refer all of my publications from <a href="https://scholar.google.co.kr/citations?user=inzigzUAAAAJ&hl=en" target="_blank">Google Scholar</a>'.
     publications:
       - paper:
-        title: Annotation vs. Virtual Tutor':' Comparative Analysis on the Effectiveness of Visual Instructions in Immersive Virtual Reality
+        title: Annotation vs. Virtual Tutor - Comparative Analysis on the Effectiveness of Visual Instructions in Immersive Virtual Reality
         authors: Hyeopwoo Lee, Jeehye Choi, Diego Vilela Monteiro, Youngnoh Goh, Daseong Han, Hai-Ning Liang, Hyun S. Yang, Jinki Jung
         conference: 18th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2019
         link: https://www.researchgate.net/publication/336592427_Annotation_vs_Virtual_Tutor_Comparative_Analysis_on_the_Effectiveness_of_Visual_Instructions_in_Immersive_Virtual_Reality?_sg=HqDvGyZ6_s2Hq52lu2NpDVtGUJGv7iKXlAmX92B2TZKF092d5fch6CMRDg-vmAWkKpLrKt4C9oOcrw.f49Wb5XdYVqnFdjq7JRdgxX4YOBj8TG2_44-YjMShOjKysneWYKp4fyzHV7Mwbq3Kb2--3KlkcB2pIFW2xpieg
@@ -139,12 +138,12 @@ publications:
         conference: 17th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2018
         link: https://www.researchgate.net/publication/326343751_Ensuring_Safety_in_Augmented_Reality_from_Trade-off_Between_Immersion_and_Situation_Awareness
       - paper:
-        title: Guiding Smombies':' Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users
+        title: Guiding Smombies - Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users
         authors: Uwe Grünefeld, Tim Claudius Stratmann, Jinki Jung, Hyeopwoo Lee, Jeehye Choi, Abhilasha Nanda, Wilko Heuten
         conference: 17th IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2018
         link: https://www.researchgate.net/publication/326305306_Guiding_Smombies_Augmenting_Peripheral_Vision_with_Low-Cost_Glasses_to_Shift_the_Attention_of_Smartphone_Users
       - paper:
-        title: Effects of interface on procedural skill transfer in virtual training':' Lifeboat launching operation study
+        title: Effects of interface on procedural skill transfer in virtual training - Lifeboat launching operation study
         authors: Jinki Jung, Young Joong Ahn
         journal: Computer animation and virtual worlds, 2018
         link: https://www.researchgate.net/publication/324904373_Effects_of_interface_on_procedural_skill_transfer_in_virtual_training_Lifeboat_launching_operation_study_A_comparative_assessment_interfaces_in_virtual_training
