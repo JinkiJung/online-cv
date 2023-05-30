@@ -63,13 +63,13 @@ studies:
       degree: Ph.D in Computer Science
       university: KAIST
       time: 2009 - 2015
-      details: "Major topic: Augmented Reality"
+      details: "Major topic: Optimization in mobile Augmented Reality"
 
     - education:
       degree: MSc in Computer Science
       university: KAIST
       time: 2007 - 2009
-      details: "Major topic: Augmented Reality"
+      details: "Major topic: Body tracking and interaction for Augmented Reality"
 
     - education:
       degree: BSc in Media Engineering
@@ -84,8 +84,8 @@ experiences:
     experiences:
         - role: Senior software developer
           time: 2019 - Present
-          company: <a href="https://maritimeconnectivity.net/" target="_blank">Secretariat of MCP</a>
-          details: Contributing stable distribution of MCP w.r.t technical parts
+          company: <a href="https://dmc.international/" target="_blank">Digital Maritime Consultancy ApS</a>, Denmark
+          details: Contributing stable distribution of <a href="https://maritimeconnectivity.net/" target="_blank">MCP</a> w.r.t technical parts
           bullets:
               - 'Development of distributed maritime identity registry based on Kubernetes'
               - 'Massive vessel traffic simulation for e-navigation testbed'
@@ -96,12 +96,12 @@ experiences:
           details: Building technical contributions to maritime safety
           bullets:
               - '<a href="http://www.smartnav.org/eng/html/Index_New/" target="_blank">SMART-Navigation project</a> : Implementation of a virtual testbed, service validation using the testbed'
-              - '<a href="https://maritimeconnectivity.net/" target="_blank">Maritime Connecivity Platform</a> : Senior developer of Identity Registry'
+              - '<a href="https://maritimeconnectivity.net/" target="_blank">Maritime Connecivity Platform</a> : Senior developer of Identity Registry and Service Registry'
               - 'Research on maritime accident prevention : Virtual Training implementation and evaluation of its effectiveness'
 
         - role: Post-doc researcher
           time: 2015 - 2016
-          company: KAIST
+          company: <a href="https://www.kaist.ac.kr/en/>KAIST</a>, Korea
           details: Conducting researches on indoor scene reconstruction and its uses in AR
 
 projects:
@@ -114,9 +114,9 @@ projects:
         link: https://maritimeconnectivity.net/
         tagline: "a communication framework enabling efficient and secure digital information exchange for maritime industry"
       - project:
-        title: Tasc
-        link: https://tasc.readthedocs.io/en/latest/
-        tagline: "a high-level script for representing tasks and its consequences"
+        title: iil (personal project)
+        link: https://jinkijung.github.io/iil-docs/
+        tagline: "a high-level data format of tasks and its flow"
       - project:
         title: Virtuality for Safety
         link: https://virtualityforsafety.github.io/
