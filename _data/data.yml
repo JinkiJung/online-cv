@@ -56,7 +56,7 @@ career-profile:
 						He received Ph.D. in Computer Science with the topic of Augmented Reality from <a href="https://www.kaist.ac.kr/html/en/index.html" target="_blank">KAIST</a>.
 						His primary interest is to investigate assessments on safety factor with simulation, VR, and AR.
             Now turning into the MCP world, he is participating working group activities and implementation as you can find in <a href="https://github.com/maritimeconnectivity">MCP Consortium repository</a>.
-            You can <a href="https://github.com/JinkiJung/online-cv/blob/master/_data/Curriculum_vitae_230202.pdf" target="_blank">download my CV here</a>.'
+            You can <a href="https://github.com/JinkiJung/jinkijung.github.com/blob/master/assets/pdf/Curriculum_vitae_231019.pdf" target="_blank">download my CV here</a>.'
 
 studies:
     - education:
@@ -87,8 +87,9 @@ experiences:
           company: <a href="https://dmc.international/" target="_blank">Digital Maritime Consultancy ApS</a>, Denmark
           details: Contributing stable distribution of <a href="https://maritimeconnectivity.net/" target="_blank">MCP</a> w.r.t technical parts
           bullets:
-              - 'Development of distributed maritime identity registry based on Kubernetes'
-              - 'Massive vessel traffic simulation for e-navigation testbed'
+              - 'Contribution to Maritime Messaging Service (MMS) specification and its prototype'
+              - 'Decentralized MSR ledger design/implementation'
+              - 'MCP management portal design/implementation'
 
         - role: Post-doc researcher
           time: 2016 - 2019
