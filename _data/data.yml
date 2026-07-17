@@ -52,11 +52,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    text: 'Jinki Jung is a senior software developer of <a href="https://dmc.international/" target="_blank">Digital Maritime Consultancy</a> primarily working on <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform (MCP)</a>.
+    text: 'Jinki Jung is a technical director of <a href="https://www.aivenautics.com/" target="_blank">AIVeNautics</a>, primarily working on the <a href="https://apps.apple.com/kr/app/chatsea/id6745332004" target="_blank">Ch@tSea app</a> powered by <a href="https://maritimeconnectivity.net" target="_blank">Maritime Connecivity Platform (MCP)</a>.
 						He received Ph.D. in Computer Science with the topic of Augmented Reality from <a href="https://www.kaist.ac.kr/html/en/index.html" target="_blank">KAIST</a>.
-						His primary interest is to investigate assessments on safety factor with simulation, VR, and AR.
-            Now turning into the MCP world, he is participating working group activities and implementation as you can find in <a href="https://github.com/maritimeconnectivity">MCP Consortium repository</a>.
-            You can <a href="https://github.com/JinkiJung/jinkijung.github.com/blob/master/assets/pdf/Curriculum_vitae_231019.pdf" target="_blank">download my CV here</a>.'
+						His primary interest is the practical industrial adoption of standard frameworks such as MCP.
+            He had been participating working group activities and implementation as you can find in <a href="https://github.com/maritimeconnectivity">MCP Consortium repository</a>.
+            You can <a href="https://jinkijung.github.io/iil-career/" target="_blank">download my CV from here</a>.'
 
 studies:
     - education:
@@ -82,8 +82,16 @@ experiences:
     title: Experiences
 
     experiences:
+        - role: Technical Director
+          time: 2025 - Now
+          company: <a href="https://www.aivenautics.com/" target="_blank">AIVeNautics</a>, Korea
+          details: Bringing standard frameworks (MCP and SECOM) into Ch@tSea
+          bullets:
+              - 'Managing the Ch@tSea dev team'
+              - 'Realization of the IEC 63173-2 SECOM standard'
+
         - role: Senior software developer
-          time: 2019 - Present
+          time: 2019 - 2025
           company: <a href="https://dmc.international/" target="_blank">Digital Maritime Consultancy ApS</a>, Denmark
           details: Contributing stable distribution of <a href="https://maritimeconnectivity.net/" target="_blank">MCP</a> w.r.t technical parts
           bullets:
@@ -153,7 +161,7 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Front-end development, Leaflet
+          name: Front-end development
           level: 98%
         - skill:
           name: Back-end development
@@ -161,9 +169,6 @@ skills:
         - skill:
           name: Statistic analysis, R
           level: 95%
-        - skill:
-          name: Deep learning, TensorFlow
-          level: 90%
         - skill:
           name: Unity3D, Unreal Engine 4
           level: 90%
